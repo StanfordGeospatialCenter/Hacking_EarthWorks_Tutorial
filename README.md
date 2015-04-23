@@ -9,7 +9,11 @@ This tutorial will demonstrate how to make use of data that is discoverable thro
 
  I'll be demonstrating how you can create a web map with the web mapping service [CartoDB.com](http://cartodb.com), but you should keep in mind that the same [**OGC**](http://www.opengeospatial.org/) compliant web service endpoints can be used in any other applications that support them, including [**ArcGIS Online**](http://arcgis.com), [**Leaflet.js**](http://leafletjs.com/), [**QGIS**](http://qgis.org/en/site/), [**MapBox**](https://www.mapbox.com/) and others.
 
-###Finding Data in [EarthWorks.stanford.edu](http://earthworks.stanford.edu)
+###Finding Data in [EarthWorks](http://earthworks.stanford.edu)
+
+Finding data in EarthWorks is pretty intuitive. It's a single search box interface, so you can just enter what you are interested in, there, or you can use the facets on the left side of the panel to begin drilling down into the holding. Of course, if you are looking for a particular area, you can also just zoom to that area in the map and click **Search here**. I won't spend too much time going into searching for data in [EarthWorks](http://earthworks.stanford.edu), since that's not what this tutorial is about. Instead, I'm just gong to focus on a dataset developed by the [**City Nature**](http://citynature.stanford.edu) project.
+
+* Type '**City Nature**' into the [EarthWorks](http://earthworks.stanford.edu) 
 
 ![EarthWorks](images/earthworks.png)
 
