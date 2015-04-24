@@ -15,8 +15,7 @@ Finding data in EarthWorks is pretty intuitive. It's a single search box interfa
 
 * Type '**City Nature**' into the [**EarthWorks**](http://earthworks.stanford.edu) **search box** and click on the **Search** button.
 
-![EarthWorks](images/original/earthworkssearch.gif)
-
+![EarthWorks](images/finddata.gif) 
 
 
 
