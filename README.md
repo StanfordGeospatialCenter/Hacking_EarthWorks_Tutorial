@@ -13,7 +13,11 @@ This tutorial will demonstrate how to make use of data that is discoverable thro
 
 Finding data in EarthWorks is pretty intuitive. It's a single search box interface, so you can just enter what you are interested in, there, or you can use the facets on the left side of the panel to begin drilling down into the holding. Of course, if you are looking for a particular area, you can also just zoom to that area in the map and click **Search here**. I won't spend too much time going into searching for data in [EarthWorks](http://earthworks.stanford.edu), since that's not what this tutorial is about. Instead, I'm just gong to focus on a dataset developed by the [**City Nature**](http://citynature.stanford.edu) project.
 
+* Go to [EarthWorks.stanford.edu](http://earthworks.stanford.edu)
+* Open a separate tab and go to 
 * Type '**City Nature**' into the [**EarthWorks**](http://earthworks.stanford.edu) **search box** and click on the **Search** button.
+* Click on the first dataset returned, which should be the "**U.S. Neighborhoods greenness measures and social variables**" dataset
+* Click on the 
 
 ![EarthWorks](images/finddata.gif) 
 
